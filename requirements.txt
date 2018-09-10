@@ -1,0 +1,12 @@
+Flask==1.0.2
+requests==2.19.1
+dialogflow==0.5.1
+python-dotenv==0.9.1
+pusher==2.0.1
+virtualenv==16.0.0
+virtualenv-clone==0.3.0
+virtualenvwrapper-win==1.2.5
+gunicorn==19.6.0
+requests-toolbelt==0.8.0
+pipenv==2018.7.1
+cryptography==2.3
